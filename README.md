@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eralia Katsakiori!</h1>
-<h3 align="center">A passionate full-stack developer with a 'everything is figure-out-able- mindset - Brighton, UK</h3>
+<h3 align="center">A passionate full-stack developer with a 'everything is figure-out-able' mindset - Brighton, UK</h3>
 
 - 🔭 I’m currently working on [favourite-places](https://github.com/EraliaKats/favourite-places-proj)
 
